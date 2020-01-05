@@ -1,1 +1,5 @@
-/* Javascript goes here */
+
+function scrollDown() {
+    let basicWeb = document.querySelector(".basic-web");
+    basicWeb.scrollIntoView({ behavior: "smooth" });
+}
