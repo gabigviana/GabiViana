@@ -216,6 +216,21 @@ article h4 {
     color: #2B86B3;
 }
 
+h5 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+    text-align: center;
+}
+
+h5 a {
+    color: #2B86B3;
+    text-decoration: none;
+}
+
+h5 a:hover {
+    color: #CCFF00;
+}
+
 .gallery-viewport {
     margin: 0 auto;
     width: 320px;
